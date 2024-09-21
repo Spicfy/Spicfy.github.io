@@ -57,21 +57,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Online book management system
+        link: https://libraryrepo.duckdns.org
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Full Stack Ecommerce Application - React, Springboot, Java, typescript 	
         description: | # this will include new lines to allow paragraphs
-          * I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. 
-          * If you don't have a project as awesome as this I would advise you make one.
+          * Developed comprehensive e-commerce application using react for frontend development and Java Spring Boot for backend
+          * Designed responsive user interface with react components, hook, and react router for seamless navigation
+          * Utilized Spring Data JPA for efficient database management and optimized query performance
+          * Implemented shopping cart functionality, product catalog, and order management features
+          * Conducted unit testing and integration testing using JUnit and Mockito to ensure code quality and reliability
+          * Deployed the application on AWS using EC2 instances and configured load balancing for scalability
+          <strong>Technologies:</strong> React, JavaScript, Java, Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, MySQL, AWS, EC2, JUnit, Mockito, Git, GitHub
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
