@@ -63,6 +63,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: May 2024 - Aug 2024
         quote: >
           Full Stack Ecommerce Application - React, Springboot, Java, typescript 	
         description: | # this will include new lines to allow paragraphs
@@ -72,20 +73,19 @@ content:
           * Implemented shopping cart functionality, product catalog, and order management features
           * Conducted unit testing and integration testing using JUnit and Mockito to ensure code quality and reliability
           * Deployed the application on AWS using EC2 instances and configured load balancing for scalability
-          
+
           <strong>Technologies:</strong> React, JavaScript, Java, Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, MySQL, AWS, EC2, JUnit, Mockito, Git, GitHub
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Full Stack Food delivery system
+        link: https://github.com/Spicfy/food-delivery-mern
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        caption: May 2024 - Aug 2024
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          MERN full stack web application
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
  
