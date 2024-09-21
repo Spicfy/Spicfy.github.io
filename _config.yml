@@ -126,9 +126,8 @@ content:
         quote: >
           The University of Ottawa is the largest bilingual (English-French) university in the world. Located in the heart of Canada’s capital, we have ready access to the great institutions of our country.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          *  Developed essential skills in teamwork, strategic planning, and meeting tight deadlines, which have prepared me for my career in Computer Science.
+          *  Successfully maintained a healthy study-life balance, enhancing productivity and personal well-being while excelling in a rigorous academic setting at the University of Ottawa.
 
   - title: A Little More About Me
     layout: text
