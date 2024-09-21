@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am a highly motivated individual with a passion for software development and a keen interest in learning new technologies. I have a strong foundation in computer science and have developed a variety of software projects. I am a quick learner and have a strong work ethic. I am looking for a software development position where I can apply my skills and continue to grow as a developer.
   Proficient in technologies such as <mark>Python, Java, JavaScript, React, Spring Boot, and AWS, GCP Could</mark>, I have successfully completed projects that range from e-commerce platforms to data analysis pipelines. I am eager to leverage my technical skills, problem-solving abilities, and passion for software development to contribute to innovative software solutions.
 
-content:
+content: |
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
