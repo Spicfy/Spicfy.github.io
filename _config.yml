@@ -72,6 +72,7 @@ content:
           * Implemented shopping cart functionality, product catalog, and order management features
           * Conducted unit testing and integration testing using JUnit and Mockito to ensure code quality and reliability
           * Deployed the application on AWS using EC2 instances and configured load balancing for scalability
+          
           <strong>Technologies:</strong> React, JavaScript, Java, Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, MySQL, AWS, EC2, JUnit, Mockito, Git, GitHub
 
   - title: # Title for the section
