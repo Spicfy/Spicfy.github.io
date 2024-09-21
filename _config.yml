@@ -96,6 +96,26 @@ content:
 
           <strong>Technologies:</strong> Frontend: React.js HTML, CSS Backend: Node.js,Express.js Database: MongoDB, payment: Stripe API, Authentication: JWT 
  
+  - title: # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Data analysis pipeline
+        link: https://github.com/Spicfy/python-dataset/blob/main/DataVizNotebook.ipynb
+        # link_text: boringcompany.com
+        caption: May 2024 - Aug 2024
+        quote: >
+          Completed an end-to-end data analysis project involving data collection, cleaning, preprocessing, analysis, and visualization.
+        description: | # this will include new lines to allow paragraphs
+          *  Data Collection: Implemented API integration for data retrieval
+          *  Data Cleaning: Utilized Pandas and NumPy for data cleaning and preprocessing
+          *  Data Analysis: Performed complex computations using NumPy and Pandas
+          *  Data Visualization: Created insightful visualizations with Matplotlib
+          *  Text Processing: Developed functions for handling various text file formats
+          *  Advanced Python: Implemented OOP principles and advanced Python features
+          * Combined all skills in a real-world style capstone project, delivering actionable insights through cleaned and visualized data.
+          <strong>Technologies:</strong>Python, Pandas, NumPy, Matplotlib, APIs, Jupyter Book
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
